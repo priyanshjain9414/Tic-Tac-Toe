@@ -31,6 +31,8 @@ Tic-Tac-Toe is a classic 2-player game where each player takes turns marking an 
 ├── index.html       # HTML file for game layout
 ├── styles.css       # CSS file for styling the game
 └── script.js        # JavaScript file for game logic
+```
+
 ## 🚀 Getting Started
 
 ### Prerequisites
