@@ -1,4 +1,4 @@
- #  Tic-Tac-Toe Game
+ #  Tic-Tac-Toe Game  [Play Game Online](https://priyanshjain9414.github.io/Tic-Tac-Toe/)
 
 A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript, allowing two players to play on the same device. This game features player alerts, victory colors, and a clean UI.
 
