@@ -1,12 +1,12 @@
- # 🎲 Tic-Tac-Toe Game
+ #  Tic-Tac-Toe Game
 
 A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript, allowing two players to play on the same device. This game features player alerts, victory colors, and a clean UI.
 
-## 🎮 Game Overview
+##  Game Overview
 
 Tic-Tac-Toe is a classic 2-player game where each player takes turns marking an empty cell in a 3x3 grid. The first player to get three of their marks in a row, column, or diagonal wins the game. If all cells are filled without a winner, the game results in a draw.
 
-## 📝 Features
+##  Features
 
 - 2-player gameplay on the same device.
 - Dynamic game status display, showing which player's turn it is.
@@ -14,17 +14,17 @@ Tic-Tac-Toe is a classic 2-player game where each player takes turns marking an 
 - Victory color indication for win or draw.
 - Game reset button to start a new round.
 
-## 🚀 Demo
+##  Demo
 
 <!-- Replace this link with an actual screenshot or gif of the game -->
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML**: Markup for structuring the game layout.
 - **CSS**: Styling the game board and providing visual feedback.
 - **JavaScript**: Game logic, player turn handling, win conditions, and interactivity.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 .
@@ -33,7 +33,7 @@ Tic-Tac-Toe is a classic 2-player game where each player takes turns marking an 
 └── script.js        # JavaScript file for game logic
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 You only need a web browser to run this game!
@@ -47,7 +47,7 @@ You only need a web browser to run this game!
 
 2. Open `index.html` in your browser to start playing.
 
-## 🎲 How to Play
+##  How to Play
 
 1. **Player X starts** the game.
 2. Click on an **empty cell** to place your mark (X or O).
@@ -55,13 +55,13 @@ You only need a web browser to run this game!
 4. Click **"Reset"** to start a new game at any time.
 
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 - **AI player** for single-player mode.
 - **Improved UI** with animations.
 - **Score tracking** to keep track of wins and losses.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
 
